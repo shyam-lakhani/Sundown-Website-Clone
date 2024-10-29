@@ -4,7 +4,7 @@ A responsive clone of the Sundown Studio website. This project is designed to re
 
 # Demo
 
-You can view the live demo of the webpage at https://shyam-lakhani.github.io/Sundown-Studio-Clone/
+You can view the live demo of the webpage at https://shyam-lakhani.github.io/Sundown-Website-Clone/
 
 ## Features
 
