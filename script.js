@@ -121,17 +121,14 @@ function menuEffect() {
 // loader
 
 let loader = document.querySelector(".loader")
-function loader () {
-    setTimeout(() => {
+setTimeout(() => {
         loader.style.top = "-100%";
     }, 4200);
-}
 
 imageHoverEffect();
 page4Effect();
 swiperAnimation();
 menuEffect();
-loader();
 
 
 
